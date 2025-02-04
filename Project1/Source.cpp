@@ -7,5 +7,6 @@ int main()
 		{
 			cout<<"bandar jee"<<endl;
 		}
+	cout << "han jee bandar jee";
 	return 0;
 }
